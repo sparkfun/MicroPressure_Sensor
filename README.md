@@ -20,7 +20,7 @@ Repository Contents
 Documentation
 -------------
 * **[Library](GitHub library URL)** - <LANGUAGE> library for the SparkFun MicroPressure Sensor.
-* **[Hookup Guide](Learn.SparkFun URL)** - Basic hookup guide for the SparkFun MicroPressure Sensor.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-qwiic-micropressure-hookup-guide)** - Basic hookup guide for the SparkFun MicroPressure Sensor.
 
 License Information
 -------------------
