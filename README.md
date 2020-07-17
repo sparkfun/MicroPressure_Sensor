@@ -2,7 +2,7 @@
 
 ========================================
 
-![SparkFun MicroPressure Sensor](URL for picture of part)
+![SparkFun MicroPressure Sensor](https://cdn.sparkfun.com/assets/parts/1/5/3/4/0/16476-SparkFun_Qwiic_MicroPressure_Sensor-01.jpg)
 
 [*SparkFun MicroPressure Sensor (16476)*](https://www.sparkfun.com/products/16476)
 
@@ -19,8 +19,8 @@ Repository Contents
 
 Documentation
 -------------
-* **[Library](GitHub library URL)** - <LANGUAGE> library for the SparkFun MicroPressure Sensor.
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-qwiic-micropressure-hookup-guide)** - Basic hookup guide for the SparkFun MicroPressure Sensor.
+* **[Library](https://github.com/sparkfun/SparkFun_MPR_Arduino_Library)** - Arduino library for the SparkFun MicroPressure Sensor.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-qwiic-micropressure-hookup-guide)** - Basic hookup guide for the SparkFun Qwiic MicroPressure Sensor.
 
 License Information
 -------------------
