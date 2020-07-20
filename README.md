@@ -19,7 +19,7 @@ Repository Contents
 
 Documentation
 -------------
-* **[Library](https://github.com/sparkfun/SparkFun_MPR_Arduino_Library)** - Arduino library for the SparkFun MicroPressure Sensor.
+* **[Library](https://github.com/sparkfun/SparkFun_MicroPressure_Arduino_Library)** - Arduino library for the SparkFun MicroPressure Sensor.
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-qwiic-micropressure-hookup-guide)** - Basic hookup guide for the SparkFun Qwiic MicroPressure Sensor.
 
 License Information
